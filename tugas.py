@@ -1,5 +1,5 @@
 
-class HitungVokal
+class HitungVokal:
 	
 	A = 0
 	U = 0
