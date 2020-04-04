@@ -24,7 +24,7 @@ a = input("Masukkan Teks:")
 
 vokal = HitungVokal()
 
-vokal.Hitung(a)
+vokal.Hitung(a.lower())
 
 vokal.Tampilkan()
 
